@@ -1,6 +1,6 @@
 import React from 'react';
 import EmployeeCard from './components/EmployeeCard';
-import SearchForm from './components/SeachForm';
+import SearchForm from './components/SearchForm';
 import Wrapper from './components/Wrapper';
 import Col from './components/Col';
 import API from './utils/API';
